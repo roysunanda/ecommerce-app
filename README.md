@@ -8,17 +8,38 @@
 
 <table>
 <tr>
-<td>Next.js 15</td>
-<td>PostgreSQL</td>
-<td>Prisma ORM</td>
-<td>Typescript</td>
-<td>Zod</td>
-<td>ShadCN UI</td>
-<td>Next Auth</td>
-<td>React Hook Form</td>
-<td>Jest - Testing</td>
-<td>Vercel - Deploy</td>
+<th>Tech Stack</th>
 </tr>
+  <tr>
+    <td>📌 Next.js 15</td>
+  </tr>
+  <tr>
+    <td>📌PostgreSQL</td>
+  </tr>
+  <tr>
+    <td>📌 Prisma ORM</td>
+  </tr>
+  <tr>
+    <td>📌 Typescript</td>
+  </tr>
+  <tr>
+    <td>📌 Zod</td>
+  </tr>
+  <tr>
+    <td>📌 ShadCN UI</td>
+  </tr>
+  <tr>
+    <td>📌 Next Auth</td>
+  </tr>
+  <tr>
+    <td>📌 React Hook Form</td>
+  </tr>
+  <tr>
+    <td>📌 Jest - Testing</td>
+  </tr>
+  <tr>
+    <td>📌 Vercel - Deploy</td>
+  </tr>
 </table>
 
 </br>
