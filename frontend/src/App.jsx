@@ -1,8 +1,8 @@
 function App() {
   return (
-    <>
-      <h1>hello world</h1>
-    </>
+    <div>
+      <h1>Welcome to ProShop</h1>
+    </div>
   );
 }
 
